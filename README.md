@@ -4,9 +4,7 @@
 
 Factum is a clean and focused to-do list application designed to turn intention into action. Rooted in the Latin word "Factum" — meaning "a thing done" — this project helps users stay grounded in their tasks and focused on what truly matters.
 
-{.Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7P2XoZsKlrI)
 
 # Cloud Database
 
@@ -41,7 +39,7 @@ lists (coleção)
 
 # Future Work
 
-- Item 1: Add Mark, Delete and Edit Tasks Functionto the Menu User Input
+- Item 1: Add Mark, Delete and Edit Tasks Functions to the Menu User Input
 - Item 2: Add a loop to give freedom to the user do what they want
 - Item 3: Add handle error
 - Item 4: Add an Interface using customtkinter library
